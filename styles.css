@@ -14,12 +14,27 @@ body{
 .links{
     background-color: #4CAF50; /* Green */
     border: none;
+    border-radius: 20px;
     color: white;
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
+    display: inline-block ;
+    column-gap: 10px;
+    
+    
+    
+    
+
+}
+a:link {
+    color:black
+}
+a:visited {
+    color:black
+}
+a:hover {
+    color: grey;
 }
 #GFG {
     text-decoration: none;
