@@ -8,8 +8,6 @@ body{
     border-radius: 150px;
 }
 
-
-
 .link{
     margin: 5px;
     padding-top: 5px;
@@ -25,18 +23,20 @@ body{
     align-items: center;
     justify-content: center;
     padding: 10px;
-    text-decoration: none;
-    
+
 }
 a:link {
     color:black
 }
+
 a:visited {
     color:black
 }
+
 a:hover {
     color: grey;
 }
+
 #GFG {
     text-decoration: none;
 }
